@@ -1,0 +1,224 @@
+10/12/2020 10:03:35 PM: INFO: ************Test_001_Login************:
+10/12/2020 10:03:35 PM: INFO: ************Verify Home Page Title ************:
+10/12/2020 10:03:39 PM: ERROR: ************Home Page title is failed ************:
+10/12/2020 10:03:43 PM: INFO: ************Verify Login ************:
+10/14/2020 08:51:11 AM: INFO: ************Test_001_Login************:
+10/14/2020 08:51:11 AM: INFO: ************Verify Home Page Title ************:
+10/14/2020 08:51:17 AM: ERROR: ************Home Page title is failed ************:
+10/14/2020 08:51:23 AM: INFO: ************Verify Login ************:
+10/14/2020 08:51:32 AM: ERROR: ************Verify Login is failed ************:
+10/14/2020 08:53:36 AM: INFO: ************Test_001_Login************:
+10/14/2020 08:53:36 AM: INFO: ************Verify Home Page Title ************:
+10/14/2020 08:53:40 AM: INFO: ************Home Page title is passed ************:
+10/14/2020 08:53:43 AM: INFO: ************Verify Login ************:
+10/14/2020 08:53:56 AM: INFO: ************Verify Login is Passed ************:
+10/14/2020 08:54:15 AM: INFO: ************Test_001_Login************:
+10/14/2020 08:54:15 AM: INFO: ************Verify Home Page Title ************:
+10/14/2020 08:54:20 AM: INFO: ************Home Page title is passed ************:
+10/14/2020 08:54:27 AM: INFO: ************Verify Login ************:
+10/14/2020 08:54:36 AM: INFO: ************Verify Login is Passed ************:
+10/14/2020 09:00:07 AM: INFO: ************Verify Login ************:
+10/14/2020 09:00:07 AM: INFO: ************Test_001_Login************:
+10/14/2020 09:00:07 AM: INFO: ************Verify Home Page Title ************:
+10/14/2020 09:00:12 AM: INFO: ************Home Page title is passed ************:
+10/14/2020 09:00:19 AM: INFO: ************Verify Login is Passed ************:
+10/14/2020 03:54:41 PM: INFO: ************Verify Login ************:
+10/14/2020 03:54:41 PM: INFO: ************Test_001_Login************:
+10/14/2020 03:54:41 PM: INFO: ************Verify Home Page Title ************:
+10/14/2020 03:54:46 PM: INFO: ************Home Page title is passed ************:
+10/14/2020 03:54:52 PM: INFO: ************Verify Login is Passed ************:
+10/15/2020 10:51:48 AM: INFO: ************Test_002_DDT_Login***********:
+10/15/2020 10:51:48 AM: INFO: ************Verify Login ************:
+10/15/2020 10:54:10 AM: INFO: ************Test_002_DDT_Login***********:
+10/15/2020 10:54:10 AM: INFO: ************Verify Login ************:
+10/15/2020 10:54:24 AM: INFO: ***Passed:
+10/15/2020 10:54:31 AM: INFO: ***Passed:
+10/15/2020 10:54:37 AM: INFO: ***Passed:
+10/15/2020 10:54:43 AM: INFO: ***Passed:
+10/15/2020 10:54:43 AM: INFO: *******Login DDT Passed******:
+10/15/2020 10:54:44 AM: INFO: *********End of Login DDT Test***********:
+10/17/2020 10:46:37 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 10:46:47 AM: INFO: **********Login success***********:
+10/17/2020 10:46:47 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 10:46:50 AM: INFO: ***************Provide customer info*********:
+10/17/2020 10:53:52 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 10:54:01 AM: INFO: **********Login success***********:
+10/17/2020 10:54:01 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 10:54:03 AM: INFO: ***************Provide customer info*********:
+10/17/2020 10:56:40 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 10:56:49 AM: INFO: **********Login success***********:
+10/17/2020 10:56:49 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 10:56:56 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:03:57 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:04:09 AM: INFO: **********Login success***********:
+10/17/2020 11:04:09 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:04:16 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:06:29 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:06:39 AM: INFO: **********Login success***********:
+10/17/2020 11:06:39 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:06:47 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:07:05 AM: INFO: **********Verify add customer*********:
+10/17/2020 11:07:06 AM: ERROR: ********* Add customer Test Failed ************:
+10/17/2020 11:11:42 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:11:52 AM: INFO: **********Login success***********:
+10/17/2020 11:11:52 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:11:59 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:12:21 AM: INFO: **********Verify add customer*********:
+10/17/2020 11:12:21 AM: INFO: ********* Add customer Test Passed *********:
+10/17/2020 11:12:22 AM: INFO: ******* Ending Add customer test **********:
+10/17/2020 11:15:19 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:15:26 AM: INFO: **********Login success***********:
+10/17/2020 11:15:26 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:15:35 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:29:32 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:29:42 AM: INFO: **********Login success***********:
+10/17/2020 11:29:42 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:29:50 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:44:47 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:44:56 AM: INFO: **********Login success***********:
+10/17/2020 11:44:56 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:45:03 AM: INFO: ***************Provide customer info*********:
+10/17/2020 11:54:14 AM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 11:54:22 AM: INFO: **********Login success***********:
+10/17/2020 11:54:22 AM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 11:54:33 AM: INFO: ***************Provide customer info*********:
+10/17/2020 12:12:49 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 12:12:59 PM: INFO: **********Login success***********:
+10/17/2020 12:12:59 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 12:13:07 PM: INFO: ***************Provide customer info*********:
+10/17/2020 12:16:44 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 12:16:53 PM: INFO: **********Login success***********:
+10/17/2020 12:16:53 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 12:17:01 PM: INFO: ***************Provide customer info*********:
+10/17/2020 12:20:22 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 12:20:31 PM: INFO: **********Login success***********:
+10/17/2020 12:20:31 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 12:20:38 PM: INFO: ***************Provide customer info*********:
+10/17/2020 12:24:14 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 12:24:25 PM: INFO: **********Login success***********:
+10/17/2020 12:24:25 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 12:24:33 PM: INFO: ***************Provide customer info*********:
+10/17/2020 12:32:44 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 12:32:54 PM: INFO: **********Login success***********:
+10/17/2020 12:32:54 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 12:33:06 PM: INFO: ***************Provide customer info*********:
+10/17/2020 12:57:15 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 12:57:25 PM: INFO: **********Login success***********:
+10/17/2020 12:57:25 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 12:57:36 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:06:33 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:06:45 PM: INFO: **********Login success***********:
+10/17/2020 01:06:45 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:07:47 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:07:59 PM: INFO: **********Login success***********:
+10/17/2020 01:07:59 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:08:12 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:13:19 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:13:29 PM: INFO: **********Login success***********:
+10/17/2020 01:13:29 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:13:41 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:15:47 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:15:55 PM: INFO: **********Login success***********:
+10/17/2020 01:15:55 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:16:05 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:18:06 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:18:17 PM: INFO: **********Login success***********:
+10/17/2020 01:18:17 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:18:28 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:28:16 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:28:27 PM: INFO: **********Login success***********:
+10/17/2020 01:28:27 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:28:37 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:38:10 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:38:21 PM: INFO: **********Login success***********:
+10/17/2020 01:38:21 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:38:31 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:41:22 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:41:35 PM: INFO: **********Login success***********:
+10/17/2020 01:41:35 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:41:43 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:44:17 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:44:27 PM: INFO: **********Login success***********:
+10/17/2020 01:44:27 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:44:44 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:48:27 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:48:37 PM: INFO: **********Login success***********:
+10/17/2020 01:48:37 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:48:47 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:51:08 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:51:18 PM: INFO: **********Login success***********:
+10/17/2020 01:51:18 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:51:29 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:53:36 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:53:47 PM: INFO: **********Login success***********:
+10/17/2020 01:53:47 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:53:56 PM: INFO: ***************Provide customer info*********:
+10/17/2020 01:55:05 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 01:55:13 PM: INFO: **********Login success***********:
+10/17/2020 01:55:13 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 01:55:24 PM: INFO: ***************Provide customer info*********:
+10/17/2020 07:43:14 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 07:43:23 PM: INFO: **********Login success***********:
+10/17/2020 07:43:23 PM: INFO: **********Starting Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:44:50 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 07:45:00 PM: INFO: **********Login success***********:
+10/17/2020 07:45:00 PM: INFO: **********Starting Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:45:17 PM: INFO: **********Verify Result Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:48:31 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 07:48:42 PM: INFO: **********Login success***********:
+10/17/2020 07:48:42 PM: INFO: **********Starting Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:48:58 PM: INFO: **********Verify Result Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:50:40 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 07:50:51 PM: INFO: **********Login success***********:
+10/17/2020 07:50:51 PM: INFO: **********Starting Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:51:07 PM: INFO: **********Verify Result Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:51:07 PM: INFO: *******Result Test_004_SearchCustomerEmail Test PASS*********:
+10/17/2020 07:51:53 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 07:52:03 PM: INFO: **********Login success***********:
+10/17/2020 07:52:03 PM: INFO: **********Starting Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:52:19 PM: INFO: **********Verify Result Test_004_SearchCustomerEmail Test*********:
+10/17/2020 07:52:19 PM: INFO: *******Result Test_004_SearchCustomerEmail Test PASS*********:
+10/17/2020 07:59:54 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 08:00:04 PM: INFO: **********Login success***********:
+10/17/2020 08:00:04 PM: INFO: **********Starting Test_005_SearchCustomerName Test*********:
+10/17/2020 08:00:20 PM: INFO: **********Verify Result Test_005_SearchCustomerName Test*********:
+10/17/2020 08:01:16 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 08:01:26 PM: INFO: **********Login success***********:
+10/17/2020 08:01:26 PM: INFO: **********Starting Test_005_SearchCustomerName Test*********:
+10/17/2020 08:01:42 PM: INFO: **********Verify Result Test_005_SearchCustomerName Test*********:
+10/17/2020 08:02:48 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 08:02:57 PM: INFO: **********Login success***********:
+10/17/2020 08:02:57 PM: INFO: **********Starting Test_005_SearchCustomerName Test*********:
+10/17/2020 08:03:14 PM: INFO: **********Verify Result Test_005_SearchCustomerName Test*********:
+10/17/2020 08:03:47 PM: INFO: ****************Test_004_SearchCustomerEmail*************************:
+10/17/2020 08:03:56 PM: INFO: **********Login success***********:
+10/17/2020 08:03:56 PM: INFO: **********Starting Test_005_SearchCustomerName Test*********:
+10/17/2020 08:04:12 PM: INFO: **********Verify Result Test_005_SearchCustomerName Test*********:
+10/17/2020 08:04:12 PM: INFO: *******Result Test_005_SearchCustomerName Test PASS*********:
+10/17/2020 08:21:05 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 08:21:17 PM: INFO: **********Login success***********:
+10/17/2020 08:21:17 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 08:21:25 PM: INFO: ***************Provide customer info*********:
+10/17/2020 08:21:53 PM: INFO: **********Verify add customer*********:
+10/17/2020 08:21:53 PM: INFO: ********* Add customer Test Passed *********:
+10/17/2020 08:21:53 PM: INFO: ******* Ending Add customer test **********:
+10/17/2020 08:21:57 PM: INFO: ************Verify Login ************:
+10/17/2020 08:22:06 PM: INFO: ************Verify Login is Passed ************:
+10/17/2020 08:38:19 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 08:38:29 PM: INFO: **********Login success***********:
+10/17/2020 08:38:29 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 08:38:37 PM: INFO: ***************Provide customer info*********:
+10/17/2020 08:39:04 PM: INFO: **********Verify add customer*********:
+10/17/2020 08:39:05 PM: INFO: ********* Add customer Test Passed *********:
+10/17/2020 08:39:05 PM: INFO: ******* Ending Add customer test **********:
+10/17/2020 08:39:08 PM: INFO: ************Verify Login ************:
+10/17/2020 08:39:16 PM: INFO: ************Verify Login is Passed ************:
+10/17/2020 08:39:25 PM: INFO: ****************Test_003_AddCustomer*************************:
+10/17/2020 08:39:34 PM: INFO: **********Login success***********:
+10/17/2020 08:39:34 PM: INFO: **********Starting Add Customer Test*********:
+10/17/2020 08:39:41 PM: INFO: ***************Provide customer info*********:
+10/17/2020 08:40:08 PM: INFO: **********Verify add customer*********:
+10/17/2020 08:40:09 PM: INFO: ********* Add customer Test Passed *********:
+10/17/2020 08:40:10 PM: INFO: ******* Ending Add customer test **********:
+10/17/2020 08:40:18 PM: INFO: ************Verify Login ************:
+10/17/2020 08:40:29 PM: INFO: ************Verify Login is Passed ************:
